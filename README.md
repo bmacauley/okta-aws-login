@@ -1,2 +1,5 @@
 # okta-aws-login
-log into AWS via Okta and SAML on the CLI
+log in via Okta, SAML and MFA to assume an AWS role
+
+
+
